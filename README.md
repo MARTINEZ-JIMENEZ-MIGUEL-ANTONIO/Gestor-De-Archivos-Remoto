@@ -27,28 +27,28 @@ para una empresa de TI.
 
 ## Cliente
 
-###Interfaz de Usuario (UI): Proporciona la interfaz gráfica para que
+### Interfaz de Usuario (UI): Proporciona la interfaz gráfica para que
 los usuarios interactúen con el gestor de archivos.
-####Modo de Usuario:
+#### Modo de Usuario:
 ▪ Autenticación y autorización.
 ▪ Perfiles de usuario para personalizar la experiencia.
 ▪ Registro de actividad para seguimiento y auditoría.
-####Modo de Categoría:
+#### Modo de Categoría:
 ▪ Organización de archivos en categorías o carpetas.
 ▪ Etiquetado para categorizar archivos según diferentes criterios.
 ▪ Búsqueda y filtrado para encontrar archivos rápidamente.
-####Modo de Archivo:
+#### Modo de Archivo:
 ▪ Vista previa de archivos sin descargarlos.
 ▪ Compartir archivos con otros usuarios.
 ▪ Versionado de archivos para mantener un historial de cambios.
-###Módulo de Gestión de Archivos: Facilita la interacción del usuario
+### Módulo de Gestión de Archivos: Facilita la interacción del usuario
 con los archivos, incluyendo operaciones como subir, descargar,
 renombrar y eliminar archivos.
 
 ## Servidor:
-###Servicio de Gestión de Archivos: 
+### Servicio de Gestión de Archivos: 
 Maneja las operaciones de archivos, como subida, descarga, renombrado y eliminación.
-###Base de Datos: 
+### Base de Datos: 
 Almacena metadatos relacionados con los archivos, como nombres, tamaños y fechas de creación/modificación.
 
 
