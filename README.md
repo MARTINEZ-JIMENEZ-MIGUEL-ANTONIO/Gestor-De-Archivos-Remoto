@@ -66,7 +66,8 @@ Almacena metadatos relacionados con los archivos, como nombres, tamaños y fecha
    - Implementación de políticas de retención y versionado para la gestión efectiva de archivos.
 
 ## Tecnologías Recomendadas
-
+- *Framework:*
+  - React.js.
 - *Interfaz de Usuario:*
   - HTML5, CSS3, JavaScript.
 
