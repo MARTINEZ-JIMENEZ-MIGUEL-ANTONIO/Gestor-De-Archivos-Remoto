@@ -1,10 +1,5 @@
 # Gestor De Archivos Remoto.
 
-## Problematica
-
-
-# Arquitectura Cliente/Servidor para Gestor de Archivos Remoto.
-
 ## Introducción
 Una empresa de TI busca mejorar la eficiencia en el intercambio de
 archivos y la colaboración entre sus empleados dispersos
