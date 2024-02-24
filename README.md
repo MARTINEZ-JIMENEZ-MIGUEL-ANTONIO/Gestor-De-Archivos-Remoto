@@ -8,7 +8,7 @@ de Archivos Remoto en la Nube mediante una arquitectura
 Cliente/Servidor. El Cliente proporciona una interfaz intuitiva para
 interactuar con el sistema, mientras que el Servidor se encarga de
 gestionar las operaciones de archivos y la base de datos asociada. Se
-emplearán tecnologías como React.js, Node.js, Express.js y MySQL
+emplearán tecnologías como `React.js`, `Node.js`, `Express.js` y `MySQL`
 para su desarrollo, asegurando así un sistema confiable y escalable.
 
 ### Problemática:
@@ -20,7 +20,7 @@ documentos y la colaboración en proyectos.
 
 
 ### Objetivo:
-Desarrollar un `Gestor de Archivos Remoto' que permita mejorar la eficiencia en el intercambio de
+Desarrollar un `Gestor de Archivos Remoto` que permita mejorar la eficiencia en el intercambio de
 archivos, la gestión de documentos y la colaboración en proyectos
 para una empresa de TI.
 
