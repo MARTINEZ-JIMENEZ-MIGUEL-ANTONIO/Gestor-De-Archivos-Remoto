@@ -1,4 +1,6 @@
-# **Gestor De Archivos Remoto.**
+# Gestor De Archivos Remoto.
+
+## Problematica
 
 
 # Arquitectura Cliente/Servidor para Gestor de Archivos Remoto.
