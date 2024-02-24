@@ -13,15 +13,14 @@ para su desarrollo, asegurando así un sistema confiable y escalable.
 
 ### Problemática:
 Una empresa de TI quiere implementar un Gestor de
-Archivos Remoto en la Nube para facilitar el acceso y la colaboración
+Archivos Remoto para facilitar el acceso y la colaboración
 entre empleados ubicados en diferentes lugares. Esto puede
 mejorar la eficiencia en el intercambio de archivos, la gestión de
 documentos y la colaboración en proyectos.
 
 
 ### Objetivo:
-Desarrollar un Servidor Gestor de Archivos Remoto en la
-Nube que permita mejorar la eficiencia en el intercambio de
+Desarrollar un `Gestor de Archivos Remoto' que permita mejorar la eficiencia en el intercambio de
 archivos, la gestión de documentos y la colaboración en proyectos
 para una empresa de TI.
 
