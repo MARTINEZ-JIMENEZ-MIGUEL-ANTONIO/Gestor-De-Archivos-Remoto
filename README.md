@@ -24,6 +24,10 @@ Desarrollar un `Gestor de Archivos Remoto` que permita mejorar la eficiencia en 
 archivos, la gestión de documentos y la colaboración en proyectos
 para una empresa de TI.
 
+``
+``
+``
+
 ## Cliente
 
 ### Interfaz de Usuario (UI): Proporciona la interfaz gráfica para que
